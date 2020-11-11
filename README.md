@@ -1,4 +1,9 @@
-<h1> Hi there 👋 </h1>
+<h2> Well, hello 👋 </h2>
+
+<h3>I'm currently working on</h3>
+<div display='flex'>
+  <img width="250" height="100" align='left' src="https://raw.githubusercontent.com/Lambda-School-Labs/citrics-fe-d/2389c1cf8ae0bc2210c5a206b853cafdd947ddeb/src/assets/Citrics%20Icon.svg" >
+</div>
 
 <!--
 **zachary-peterson/zachary-peterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
