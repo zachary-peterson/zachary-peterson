@@ -1,4 +1,4 @@
-<h4> Hi there 👋 </h4>
+<h1> Hi there 👋 </h1>
 
 <!--
 **zachary-peterson/zachary-peterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
