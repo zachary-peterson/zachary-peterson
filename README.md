@@ -13,7 +13,7 @@
 </div>
 
 <h3>What I work with:</h3>
-  ![alt text](https://www.freeiconspng.com/img/12117)
+  ![alt text](https://www.freeiconspng.com/img/12117.png)
 
 <h3>🌱 I’m currently learning/revisiting 📚 </h3>
 <div display='flex'>
