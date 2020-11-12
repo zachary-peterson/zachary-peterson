@@ -20,6 +20,8 @@ quickly in a visual manner.</p>
 <h4>Email: z.peterson7@yahoo.com</h4>
 <a href="https://www.linkedin.com/in/zacharytpeterson/" target="_blank">LinkedIn</a>
 
+<p>⚡ Fun fact: I'm in a deleted scene of the US's tv show Shameless</p>
+
 <!--
 **zachary-peterson/zachary-peterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
