@@ -6,10 +6,10 @@
   <img width="250" height="100" align='left' src="https://raw.githubusercontent.com/Lambda-School-Labs/citrics-fe-d/2389c1cf8ae0bc2210c5a206b853cafdd947ddeb/src/assets/Citrics%20Icon.svg" >
   <div>
     <h2 align='left'>Citrics</h2>
-    <p>Presents key city facts, comparing and contrasting essential city details, allowing users to gather information
-quickly in a visual manner.</p>
+    <p>Presents key city facts, comparing and contrasting need-to-know city details, allowing users to gather information
+quickly & in a visual manner.</p>
     <ul align='left'>
-      <li>Normaliizing state shape by restructuring redux actions and reducers.</li>
+      <li>Normaliizing state shape by restructuring redux actions & reducers.</li>
       <li>Refactoring charts, using Chart.js, to clean up visual representation of data.</li>
       <li>Redesigning user flow, allowing a more natural progression through the app.</li>
     </ul>
@@ -21,7 +21,7 @@ quickly in a visual manner.</p>
   <ul>
     <li>Node and Express</li>
     <li>Docker</li>
-    <li>Data Structures and Algorithms ♾️</li>
+    <li>Data Structures & Algorithms ♾️</li>
   </ul>
 </div>
 
