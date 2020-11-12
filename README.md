@@ -12,7 +12,7 @@
   </div>
 </div>
 
-<h3>What I work with:</h3>
+<h3>🤖 What I work with:</h3>
   <p>HTML | CSS | JavaScript | Java | SQL | Python</p>
 
 <h3>🌱 I’m currently learning/revisiting 📚 </h3>
