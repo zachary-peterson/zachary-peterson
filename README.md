@@ -21,7 +21,7 @@ quickly in a visual manner.</p>
   <ul>
     <li>Node and Express</li>
     <li>Docker</li>
-    <li>♾️ Data Structures and Algorithms</li>
+    <li>Data Structures and Algorithms ♾️</li>
   </ul>
 </div>
 
