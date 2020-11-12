@@ -16,16 +16,25 @@ quickly in a visual manner.</p>
   </div>
 </div>
 
+<h3>🌱 I’m currently learning/studying 📚 </h3>
+<div display='flex'>
+  <ul>
+    <li>Node and Express</li>
+    <li>Docker</li>
+    <li>♾️ Data Structures and Algorithms</li>
+  </ul>
+</div>
+
 <h3>📫 Get in touch!</h3>
 <div>
   <p>
-  <strong>Email</strong>: z.peterson7@yahoo.com <br/> 
+  <strong>Email 📧</strong>: z.peterson7@yahoo.com <br/> 
   <a href="https://www.linkedin.com/in/zacharytpeterson/" target="_blank"><strong>LinkedIn</strong></a> |
   <a href="https://twitter.com/zipwrites" target="_blank"><strong>Twitter</strong></a>
   </p>
 </div>
 <br/><br/>
-<p>⚡ Fun fact: I'm in a deleted scene of the US's version of Shameless</p>
+<p>🎞 <strong>Fun fact</strong>: I'm in a deleted scene of the US's version of Shameless</p>
 
 <!--
 **zachary-peterson/zachary-peterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
