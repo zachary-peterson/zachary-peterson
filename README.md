@@ -11,7 +11,7 @@
   </div>
 </div>
 
-<h3>🌱 I’m currently learning/studying 📚 </h3>
+<h3>🌱 I’m currently learning/revisiting 📚 </h3>
 <div display='flex'>
   <ul>
     <li>Node and Express</li>
