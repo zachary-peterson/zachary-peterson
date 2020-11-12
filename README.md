@@ -1,5 +1,5 @@
 <h2> Well, hello 👋 </h2>
-<p>I'm Zach! A Full-Stack developer in Upstate NY. I love working with animations and state to bring ideas to life. What could be seen as boring data, being brought to life on screen. If it involves learning tech, count me in!</p>
+<p>I'm Zach! A Full-Stack developer in Upstate NY. I love working with animations and state management to bring ideas to reality. What could be seen as boring data, being brought to life on screen. If it involves learning tech, count me in!</p>
 
 <h3>🔭 I'm currently working on</h3>
 <div display='flex'>
