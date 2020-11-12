@@ -2,7 +2,8 @@
 <p>I'm Zach! A Full-Stack developer in Upstate NY. I love working with animations and state management to bring ideas to reality. What could be seen as boring data, being brought to life on screen. If it involves learning tech, count me in!</p>
 
 <h3>Tech:</h3>
-![HTML5 Icon](https://img.icons8.com/?id=20909&size=2x&color=000000)
+<img width=“50” alt=“java 8 and prio java 8  arr” src=“https://img.icons8.com/?id=20909&size=2x&color=000000”>
+
 
 <h3>👨🏻‍💻 <strong>I'm currently working on:</strong></h3>
 <div display='flex'>
