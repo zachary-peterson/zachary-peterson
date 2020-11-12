@@ -29,7 +29,7 @@
   </p>
 </div>
 <br/><br/>
-<p>🎞 <strong>Fun fact</strong>: I'm in a deleted scene of the US's version of Shameless</p>
+<p>📺 <strong>Fun fact</strong>: I'm in a deleted scene of the US's version of Shameless</p>
 
 <!--
 **zachary-peterson/zachary-peterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
