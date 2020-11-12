@@ -7,9 +7,9 @@
   <div>
     <h2 align='left'>Citrics</h2>
     <p>Presents key city facts, comparing and contrasting need-to-know city details, allowing users to gather information
-quickly & in a visual manner.</p>
+quickly and in a visual manner.</p>
     <ul align='left'>
-      <li>Normaliizing state shape by restructuring redux actions & reducers.</li>
+      <li>Normaliizing state shape by restructuring redux actions and reducers.</li>
       <li>Refactoring charts, using Chart.js, to clean up visual representation of data.</li>
       <li>Redesigning user flow, allowing a more natural progression through the app.</li>
     </ul>
