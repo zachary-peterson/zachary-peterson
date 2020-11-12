@@ -6,7 +6,7 @@
   <img width="250" height="100" align='left' src="https://raw.githubusercontent.com/Lambda-School-Labs/citrics-fe-d/2389c1cf8ae0bc2210c5a206b853cafdd947ddeb/src/assets/Citrics%20Icon.svg" >
   <div>
     <h2 align='left'>Citrics</h2>
-    <p>Mostly working as a Front End developer, we're presenting key city facts, comparing and contrasting need-to-know city details. <br/>
+    <p>Mostly working as a Front End developer, we're presenting key city facts, comparing and contrasting need-to-know city details.
       The application's main focus is allowing users to quickly gather information, from visual representations of the data.</p>
   </div>
 </div>
