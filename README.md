@@ -27,7 +27,6 @@
 <h3>📫 Get in touch!</h3>
 <div>
   <p>
-  <strong>Email 📧</strong>: z.peterson7@yahoo.com <br/> 
   <a href="https://www.linkedin.com/in/zacharytpeterson/" target="_blank"><strong>LinkedIn</strong></a> |
   <a href="https://twitter.com/zipwrites" target="_blank"><strong>Twitter</strong></a>
   </p>
