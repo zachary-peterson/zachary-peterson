@@ -5,7 +5,7 @@
 <div display='flex'>
   <img width="250" height="100" align='left' src="https://raw.githubusercontent.com/Lambda-School-Labs/citrics-fe-d/2389c1cf8ae0bc2210c5a206b853cafdd947ddeb/src/assets/Citrics%20Icon.svg" >
   <div>
-    <h4 align='left'>Citrics</h4>
+    <h2 align='left'>Citrics</h2>
     <p>Presents key city facts, comparing and contrasting essential city details, allowing users to gather information
 quickly in a visual manner.</p>
     <ul align='left'>
@@ -15,6 +15,9 @@ quickly in a visual manner.</p>
     </ul>
   </div>
 </div>
+
+<h3>📫 Get in touch!</h3>
+<a href="https://www.linkedin.com/in/zacharytpeterson/" target=""_blank>LinkedIn</a>
 
 <!--
 **zachary-peterson/zachary-peterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
