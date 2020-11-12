@@ -17,7 +17,7 @@ quickly in a visual manner.</p>
 </div>
 
 <h3>📫 Get in touch!</h3>
-<a href="https://www.linkedin.com/in/zacharytpeterson/" target=""_blank>LinkedIn</a>
+<a href="https://www.linkedin.com/in/zacharytpeterson/" target="_blank">LinkedIn</a>
 
 <!--
 **zachary-peterson/zachary-peterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
