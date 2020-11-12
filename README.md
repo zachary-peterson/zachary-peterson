@@ -1,7 +1,7 @@
 <h2> Well, hello 👋 </h2>
 <p>I'm Zach! A Full-Stack developer in Upstate NY. I love working with animations and state management to bring ideas to reality. What could be seen as boring data, being brought to life on screen. If it involves learning tech, count me in!</p>
 
-<h3>🔭 I'm currently working on</h3>
+<h3>👨🏻‍💻 I'm currently working on</h3>
 <div display='flex'>
   <img width="250" height="100" align='left' src="https://raw.githubusercontent.com/Lambda-School-Labs/citrics-fe-d/2389c1cf8ae0bc2210c5a206b853cafdd947ddeb/src/assets/Citrics%20Icon.svg" >
   <div>
