@@ -17,9 +17,9 @@ quickly in a visual manner.</p>
 </div>
 
 <h3>📫 Get in touch!</h3>
-<h4>Email: z.peterson7@yahoo.com</h4>
+<p><strong>Email</strong>: z.peterson7@yahoo.com</p>
 <a href="https://www.linkedin.com/in/zacharytpeterson/" target="_blank">LinkedIn</a>
-
+<br/><br/>
 <p>⚡ Fun fact: I'm in a deleted scene of the US's tv show Shameless</p>
 
 <!--
